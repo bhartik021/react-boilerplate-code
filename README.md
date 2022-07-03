@@ -25,4 +25,4 @@ yarn
 npm run start
 ```
 
-4. **You are good to go! You can now access the application on the `PORT 3000`** - [http://localhost:3001](http://localhost:3000)
+4. **You are good to go! You can now access the application on the `PORT 3000`** - [http://localhost:3000](http://localhost:3000)
