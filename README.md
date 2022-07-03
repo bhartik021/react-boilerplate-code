@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Create React App provides a comfortable learning environment for React and is the best way to begin building a new single-page application in React.
 
 ## Installing 
 
